@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn-propio{
+    background-color: lightpink;
+    color: green;
+    border: 1px solid lightgreen;
+}
+body{
+    height: 800px;
+    background-image: url(../img/manuel-cosentino-n--CMLApjfI-unsplash.jpg)
+    background-size: cover;
+    background-size: 85rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.about{
+    height: 800px;
+    background-image: url(../img/daniel-klein-wC5BvegHCt0-unsplash.jpg)
+    background-size: cover;
+    background-size: 85rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
